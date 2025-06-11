@@ -110,14 +110,6 @@ http://localhost/Online Car Rental Website
 
 ---
 
-## 👨‍💻 Author
-
-- **Nikhila Manogna**  
-  GitHub: [@NikhilaManogna](https://github.com/NikhilaManogna)  
-  Email: nikhilamanogna@gmail.com
-
----
-
 ## 📜 License
 
 This project is open-source and free to use for educational and personal development purposes.
